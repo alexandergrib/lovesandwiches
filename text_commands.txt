@@ -1,0 +1,4 @@
+pip3 install gspread google-auth
+
+
+python3 run.py
